@@ -1,4 +1,4 @@
-scoreboard players set @a[scores={die=1..}] time 72000
+scoreboard players set @a[scores={die=1..}] time 99999999999
 gamemode spectator @a[scores={die=1..}]
 scoreboard players set @a[scores={die=1..}] die 0
 
